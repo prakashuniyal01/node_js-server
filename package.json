@@ -1,0 +1,29 @@
+{
+  "name": "node_js-server",
+  "version": "1.0.0",
+  "description": "mejor project to ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashuniyal01/node_js-server.git"
+  },
+  "keywords": [
+    "mejor",
+    "project"
+  ],
+  "author": "prakash singh rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prakashuniyal01/node_js-server/issues"
+  },
+  "homepage": "https://github.com/prakashuniyal01/node_js-server#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
